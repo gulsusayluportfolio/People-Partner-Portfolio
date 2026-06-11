@@ -1,0 +1,29 @@
+```markdown
+# Operations Case Studies
+
+Real-world examples of how I optimize HR workflows and system efficiency.
+
+## Case Study: Workflow Optimization & Automation
+
+### 🔍 The Challenge
+Our People Operations team was struggling with manual data entry for new hires, which led to high error rates and delayed system access for new employees.
+
+### ⚙️ The Action
+I implemented a standardized onboarding checklist and automated system triggers between our ATS and HRIS (Bamboo HR).
+* Developed clear SOPs (Standard Operating Procedures) for data handling.
+* Integrated automated notifications to reduce communication bottlenecks.
+
+### 📈 The Results
+* **Efficiency:** Reduced onboarding administrative time by **30%**.
+* **Accuracy:** Error rates in HRIS data entry dropped by **20%** within the first quarter.
+* **Employee Experience:** New hires received system access on their first day consistently.
+
+---
+
+## 📊 Summary of Impact
+
+| Metric | Improvement |
+| :--- | :--- |
+| **Onboarding Time** | ↓ 30% |
+| **Data Error Rate** | ↓ 20% |
+| **Process Consistency** | ↑ High |
