@@ -1,0 +1,14 @@
+# Operational Process Flow
+
+A standardized approach to managing the employee lifecycle, ensuring accuracy, compliance, and efficiency.
+
+```mermaid
+graph TD
+    A[Onboarding] --> B[Data Entry & System Setup]
+    B --> C[Benefits & Payroll Coordination]
+    C --> D[Continuous HR Support]
+    D --> E[Performance Management]
+    E --> F[Offboarding & Compliance]
+
+    style A fill:#d4edda,stroke:#28a745
+    style F fill:#f8d7da,stroke:#dc3545
