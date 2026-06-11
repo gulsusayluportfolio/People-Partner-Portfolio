@@ -1,1 +1,24 @@
-People Partner & Rewards Strategy PortfolioHi, I am Gulsu Saylu. I am a strategic HR professional focused on bridging the gap between data-driven compensation strategies and people-centric initiatives to drive organizational growth.🎯 Professional FocusI specialize in helping fast-paced organizations scale by designing competitive reward structures and fostering a high-performance culture. My approach is rooted in:Compensation & Benefits: Designing market-competitive salary structures and benefit programs.Data-Driven Decision Making: Using HR analytics to identify trends, optimize retention, and support business goals.People Partnering: Acting as a strategic advisor to leadership, ensuring talent alignment with organizational objectives.Employee Experience: Enhancing the end-to-end employee lifecycle to build long-term engagement.📂 Key Resources & Case StudiesCompensation & Benefits Analysis Template - A data-driven model for market benchmarking and internal equity analysis.Employee Engagement Strategy - A strategic case study on improving retention in high-growth environments.Performance Management Framework - A structured approach to setting OKRs and driving performance.🛠 Core CompetenciesCategoryExpertiseStrategyC&B Structuring, HR Analytics, Workforce PlanningOperationsPolicy Development, ATS & HRIS ImplementationPeopleEmployee Relations, Performance Management, Stakeholder Engagement🔗 Connect With MeLinkedIn Profile (Buraya kendi profil linkini ekle)Interested in my full-cycle recruitment work? Check out my Recruitment Portfolio.
+# Talent Acquisition & HR Operations Portfolio
+
+Hi, I am **Gulsu Saylu**. I am a passionate HR professional specialized in full-cycle recruitment and HR operations management.
+
+## 🚀 Areas of Expertise
+* **Full-Cycle Recruitment:** End-to-end recruitment process management from sourcing to onboarding.
+* **HR Operations:** Ensuring data integrity and accuracy in HRIS (Nmbrs, WorkDay, Bamboo HR) platforms.
+* **Process Optimization:** Streamlining recruitment and operational workflows to improve efficiency.
+
+## 📂 Key Competencies
+* **High-Volume Recruitment:** Managing fast-paced interview scheduling and candidate pipelines in hyper-growth environments.
+* **Data-Driven Approach:** Utilizing ATS and reporting tools to measure and optimize process performance.
+* **Stakeholder Management:** Strategic partnership with Hiring Managers to align staffing needs and accelerate hiring.
+
+## 🛠 Tools & Technologies
+* **HRIS/ATS:** Nmbrs, WorkDay, Bamboo HR.
+* **Office & Analysis:** MS Office Suite, Google Workspace, Data Analytics.
+
+---
+*Contact: gulsusaylu@gmail.com*
+## 📂 My Professional Portfolio
+
+*   [**Detailed Recruitment Process Flow**](Recruitment_Process.md) - A step-by-step look at my end-to-end management workflow.
+*   [**Case Studies & Performance Metrics**](Case_Studies.md) - Real-world examples of how I optimized recruitment operations.
