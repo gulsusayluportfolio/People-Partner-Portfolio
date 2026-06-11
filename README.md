@@ -1,20 +1,21 @@
-# Talent Acquisition & HR Operations Portfolio
+# People Operations Portfolio
 
-Hi, I am **Gulsu Saylu**. I am a passionate HR professional specialized in full-cycle recruitment and HR operations management.
+Hi, I am **Gulsu Saylu**. I am a strategic HR professional specialized in optimizing People Operations, enhancing employee experience, and streamlining core HR workflows to support high-growth environments.
 
 ## 🚀 Areas of Expertise
-* **Full-Cycle Recruitment:** End-to-end recruitment process management from sourcing to onboarding.
-* **HR Operations:** Ensuring data integrity and accuracy in HRIS (Nmbrs, WorkDay, Bamboo HR) platforms.
-* **Process Optimization:** Streamlining recruitment and operational workflows to improve efficiency.
+* **People Operations:** Managing the full employee lifecycle, from onboarding to offboarding, ensuring operational excellence.
+* **Process Optimization:** Designing and improving HR workflows to reduce administrative burden and increase efficiency.
+* **Data Integrity & Reporting:** Maintaining high-quality HR data across HRIS platforms to drive informed decision-making.
 
 ## 📂 Key Competencies
-* **High-Volume Recruitment:** Managing fast-paced interview scheduling and candidate pipelines in hyper-growth environments.
-* **Data-Driven Approach:** Utilizing ATS and reporting tools to measure and optimize process performance.
-* **Stakeholder Management:** Strategic partnership with Hiring Managers to align staffing needs and accelerate hiring.
+* **System Management:** Expert-level administration of HRIS platforms (Nmbrs, WorkDay, Bamboo HR) to ensure data accuracy and compliance.
+* **Process Automation:** Leveraging automation tools to streamline manual HR tasks and improve process turnaround times.
+* **Stakeholder Partnership:** Collaborating with leadership to align people operations with company-wide strategic goals.
 
 ## 🛠 Tools & Technologies
 * **HRIS/ATS:** Nmbrs, WorkDay, Bamboo HR.
-* **Office & Analysis:** MS Office Suite, Google Workspace, Data Analytics.
+* **Operational Tools:** MS Office Suite, Google Workspace, Project Management Tools.
+* **Data & Analytics:** Excel-based reporting, Process Mapping, KPI Tracking.
 
 ---
 *Contact: gulsusaylu@gmail.com*
