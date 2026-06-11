@@ -18,7 +18,3 @@ Hi, I am **Gulsu Saylu**. I am a passionate HR professional specialized in full-
 
 ---
 *Contact: gulsusaylu@gmail.com*
-## 📂 My Professional Portfolio
-
-*   [**Detailed Recruitment Process Flow**](Recruitment_Process.md) - A step-by-step look at my end-to-end management workflow.
-*   [**Case Studies & Performance Metrics**](Case_Studies.md) - Real-world examples of how I optimized recruitment operations.
